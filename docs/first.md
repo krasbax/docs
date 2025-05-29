@@ -7,7 +7,7 @@
 
 1. Откройте браузер (доступ возможен через любой современный браузер: Google Chrome, Mozilla Firefox, Microsoft Edge, Яндекс.Браузер).
 2. В адресной строке браузера введите URL:
-   [https://dilibrium-gateway.siplan-devel.tamanneftegas.ru/front-admin](https://dilibrium-gateway.siplan-devel.tamanneftegas.ru/front-admin)
+   [https://](https://dilibrium)
 3. Нажмите Enter.
 
 ### Окно входа в систему
